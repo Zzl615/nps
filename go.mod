@@ -15,7 +15,7 @@ require (
 	github.com/golang/snappy v0.0.2
 	github.com/hooklift/assert v0.0.0-20170704181755-9d1defd6d214 // indirect
 	github.com/kardianos/service v1.0.0
-	github.com/klauspost/cpuid v1.3.0 // indirect
+	github.com/klauspost/cpuid v1.2.5 // indirect
 	github.com/klauspost/pgzip v1.2.1 // indirect
 	github.com/klauspost/reedsolomon v1.9.9 // indirect
 	github.com/mmcloughlin/avo v0.0.0-20200523190732-4439b6b2c061 // indirect
